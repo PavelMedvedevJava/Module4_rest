@@ -3,7 +3,6 @@ package com.example.module4_rest.controller;
 import com.example.module4_rest.model.User;
 import com.example.module4_rest.service.UserService;
 import java.util.List;
-import java.util.Random;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
